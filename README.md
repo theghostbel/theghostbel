@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!-- WORK RANGE:START --><!-- WORK RANGE:START -->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3321 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!-- WORK RANGE:START -->not yet<!-- WORK RANGE:START -->
+* ⚡ Fun fact: <!--FUN FACT:START-->The praying mantis is the only insect that can turn its head<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
