@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Walt Disney was afraid of mice.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
