@@ -15,5 +15,8 @@ with the  latest updates.
 
 #### Latest videos
 
-| 🔢 | 📅 | <img src="https://i1.ytimg.com/vi/lZcb4YoBGMY/hqdefault.jpg" width="200" height="150" /> | [Youtube playlist](https://www.youtube.com/watch?v=3cGKw9sxV_g&list=PLXjYtHFptm-1_AvljZv_EHBHO_BaqvVsH) |
+<!--YOUTUBE:START-->
+| 🔢 | 📅 | 📷 | [Youtube playlist](https://www.youtube.com/watch?v=3cGKw9sxV_g&list=PLXjYtHFptm-1_AvljZv_EHBHO_BaqvVsH) |
 | ------ | ------ | ------ | ------ |
+| 1 | April 14, 2020 | <img src="https://i.ytimg.com/vi/ODWakh7Tl9s/default.jpg" width="120" height="90" /> | [Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions)](https://www.youtube.com/watch?v=ODWakh7Tl9s)
+<!--YOUTUBE:END-->
