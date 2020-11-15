@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3383 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3384 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->If the population of China walked past you in single file, the line would never end because of the rate of reproduction.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Donald Duck`s middle name is Fauntleroy.  <!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
@@ -23,7 +23,7 @@ with the  latest updates.
 | 3 | December 9, 2019 | <img src="https://i.ytimg.com/vi/JRlCIPkwheA/default.jpg" width="120" height="90" /> | [Пусть всем кажется, что всё грузится быстро, Виктор Русакович](https://www.youtube.com/watch?v=JRlCIPkwheA)
 | 4 | March 29, 2019 | <img src="https://i.ytimg.com/vi/c29NxCnOL2A/default.jpg" width="120" height="90" /> | [Elm — new language, new you, Victor Rusakovich [CSS-Minsk-JS 2018]](https://www.youtube.com/watch?v=c29NxCnOL2A)
 | 5 | February 22, 2019 | <img src="https://i.ytimg.com/vi/D-4D1f5gyXw/default.jpg" width="120" height="90" /> | [Зачем мы переписывали приложение на Elm и кто за это ответит / Виктор Русакович](https://www.youtube.com/watch?v=D-4D1f5gyXw)
-| 6 | December 14, 2018 | <img src="https://i.ytimg.com/vi/lZcb4YoBGMY/default.jpg" width="120" height="90" /> | [Зачем мы переписываем приложение на Elm, и кто его знает? / Виктор Русакович (GP Solutions)](https://www.youtube.com/watch?v=lZcb4YoBGMY)
+| 6 | December 14, 2018 | <img src="https://i.ytimg.com/vi/lZcb4YoBGMY/default.jpg" width="120" height="90" /> | [Зачем мы переписываем приложение на Elm, и кто его знает? / Виктор Р��сакович (GP Solutions)](https://www.youtube.com/watch?v=lZcb4YoBGMY)
 | 7 | June 23, 2018 | <img src="https://i.ytimg.com/vi/vrqI84atsI8/default.jpg" width="120" height="90" /> | [Фронтенд без боли, ошибок и Javascript. Все про Elm. Функциональное программирование](https://www.youtube.com/watch?v=vrqI84atsI8)
 | 8 | January 16, 2018 | <img src="https://i.ytimg.com/vi/hPbJRXUq-hw/default.jpg" width="120" height="90" /> | [Тестируй это / Виктор Русакович (GP Solutions)](https://www.youtube.com/watch?v=hPbJRXUq-hw)
 | 9 | November 3, 2017 | <img src="https://i.ytimg.com/vi/q2Ts8a_SPCU/default.jpg" width="120" height="90" /> | [Виктор Русакович - Выборы, выборы, все фреймворки… приторны](https://www.youtube.com/watch?v=q2Ts8a_SPCU)
