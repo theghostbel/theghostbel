@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3389 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3390 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The buzz from an electric razor in America plays in the key of B flat; Key of G in England.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
