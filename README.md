@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3393 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3394 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Sex burns 360 calories per hour.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Simplistic passwords contribute to over 80% of all computer password break-ins.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
