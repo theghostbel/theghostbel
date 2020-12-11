@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3409 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3410 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The name Wendy was made up for the book "Peter Pan."<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
