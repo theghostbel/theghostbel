@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3481 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3482 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->If Texas were a country, its GNP would be the fifth largest of any country in the world.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
