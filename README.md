@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3513 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3514 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->If you have three quarters, four dimes, and four pennies, you have <!--FUN FACT:START-->.19, the largest amount of money in coins without being able to make change for a dollar.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  <!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
