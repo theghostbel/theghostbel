@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3515 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3516 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The buzz from an electric razor in America plays in the key of B flat; Key of G in England.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
