@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3537 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3538 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->In Aspen Colorado, you can have a maximum income of <!--FUN FACT:START-->04,000 and still receive government subsidized housing.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
