@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3573 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3574 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->In The Empire Strikes Back there is a potato hidden in the asteroid field<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
