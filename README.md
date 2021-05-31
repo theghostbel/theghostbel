@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3580 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3581 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->"Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.30,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
