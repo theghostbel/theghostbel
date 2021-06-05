@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3585 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3586 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
