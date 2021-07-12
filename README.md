@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3622 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3623 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
