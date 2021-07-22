@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3632 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3633 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
