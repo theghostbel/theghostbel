@@ -61,6 +61,7 @@ async function youtubePlaylist(oldTable) {
   const json = await getJson(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&part=contentDetails&maxResults=${MAX_RESULTS}&playlistId=${playlistId}&key=${API_KEY}`)
 
   const videosAsMarkdownRows = json.items
+    .filter(({ snippet: { thumbnails } }) => Object.keys(thumbnails).length)
     .map(({ snippet, contentDetails }) => {
       return {
         publishedAt: contentDetails.videoPublishedAt,
