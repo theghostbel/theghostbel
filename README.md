@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3659 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3660 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Winston Churchill was born in a ladies` room during a dance.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  <!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
@@ -29,7 +29,7 @@ with the  latest updates.
 | 9 | November 3, 2017 | <img src="https://i.ytimg.com/vi/q2Ts8a_SPCU/default.jpg" width="120" height="90" /> | [Виктор Русакович - Выборы, выборы, все фреймворки… приторны](https://www.youtube.com/watch?v=q2Ts8a_SPCU)
 | 10 | May 23, 2016 | <img src="https://i.ytimg.com/vi/_OcnHy64xM0/default.jpg" width="120" height="90" /> | [JavaScript: прошлое, настоящее и будущее, Владимир Дашукевич](https://www.youtube.com/watch?v=_OcnHy64xM0)
 | 11 | February 10, 2016 | <img src="https://i.ytimg.com/vi/-Mu6DsD0uj0/default.jpg" width="120" height="90" /> | [Party Hard! 2016 - техническая секция, часть шестая](https://www.youtube.com/watch?v=-Mu6DsD0uj0)
-| 12 | July 13, 2015 | <img src="https://i.ytimg.com/vi/8TgnLP26op8/default.jpg" width="120" height="90" /> | [Непрерывная интеграция или „Кто всё сломал?“](https://www.youtube.com/watch?v=8TgnLP26op8)
+| 12 | July 13, 2015 | <img src="https://i.ytimg.com/vi/8TgnLP26op8/default.jpg" width="120" height="90" /> | [Непрерывная интеграция или ��Кто всё сломал?“](https://www.youtube.com/watch?v=8TgnLP26op8)
 | 13 | July 3, 2015 | <img src="https://i.ytimg.com/vi/ufWxD1Bit7k/default.jpg" width="120" height="90" /> | ["Непрерывная интеграция или "Кто всё сломал?", Виктор Русакович, MoscowJS 23](https://www.youtube.com/watch?v=ufWxD1Bit7k)
 | 14 | June 4, 2015 | <img src="https://i.ytimg.com/vi/Rrv0-I3HIAw/default.jpg" width="120" height="90" /> | [Continuous Integration — A to Z или Непрерывная интеграция — кто всё сломал?, Виктор Русакович](https://www.youtube.com/watch?v=Rrv0-I3HIAw)
 | 15 | February 22, 2015 | <img src="https://i.ytimg.com/vi/SKuZ00B0rmY/default.jpg" width="120" height="90" /> | [Solit 2012. Виктор Русакович. "Беспроблемное внедрение js/css/html на сторонних ресурсах"](https://www.youtube.com/watch?v=SKuZ00B0rmY)
