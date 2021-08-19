@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3660 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3661 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  <!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->It has NEVER rained in Calama, a town in the Atacama Desert of Chile.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
@@ -18,7 +18,7 @@ with the  latest updates.
 <!--YOUTUBE:START-->
 | 🔢 | 📅 | 📷 | [Youtube playlist](https://www.youtube.com/watch?v=3cGKw9sxV_g&list=PLXjYtHFptm-1_AvljZv_EHBHO_BaqvVsH) |
 | ------ | ------ | ------ | ------ |
-| 1 | October 10, 2020 | <img src="https://i.ytimg.com/vi/CDb36N3ixZk/default.jpg" width="120" height="90" /> | [Сбор и анализ производительности у клиентов / Виктор Русакович](https://www.youtube.com/watch?v=CDb36N3ixZk)
+| 1 | August 19, 2021 | <img src="https://i.ytimg.com/vi/CDb36N3ixZk/default.jpg" width="120" height="90" /> | [Сбор и анализ производительности у клиентов / Виктор Русакович](https://www.youtube.com/watch?v=CDb36N3ixZk)
 | 2 | April 14, 2020 | <img src="https://i.ytimg.com/vi/ODWakh7Tl9s/default.jpg" width="120" height="90" /> | [Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions)](https://www.youtube.com/watch?v=ODWakh7Tl9s)
 | 3 | December 9, 2019 | <img src="https://i.ytimg.com/vi/JRlCIPkwheA/default.jpg" width="120" height="90" /> | [Пусть всем кажется, что всё грузится быстро, Виктор Русакович](https://www.youtube.com/watch?v=JRlCIPkwheA)
 | 4 | March 29, 2019 | <img src="https://i.ytimg.com/vi/c29NxCnOL2A/default.jpg" width="120" height="90" /> | [Elm — new language, new you, Victor Rusakovich [CSS-Minsk-JS 2018]](https://www.youtube.com/watch?v=c29NxCnOL2A)
@@ -29,7 +29,7 @@ with the  latest updates.
 | 9 | November 3, 2017 | <img src="https://i.ytimg.com/vi/q2Ts8a_SPCU/default.jpg" width="120" height="90" /> | [Виктор Русакович - Выборы, выборы, все фреймворки… приторны](https://www.youtube.com/watch?v=q2Ts8a_SPCU)
 | 10 | May 23, 2016 | <img src="https://i.ytimg.com/vi/_OcnHy64xM0/default.jpg" width="120" height="90" /> | [JavaScript: прошлое, настоящее и будущее, Владимир Дашукевич](https://www.youtube.com/watch?v=_OcnHy64xM0)
 | 11 | February 10, 2016 | <img src="https://i.ytimg.com/vi/-Mu6DsD0uj0/default.jpg" width="120" height="90" /> | [Party Hard! 2016 - техническая секция, часть шестая](https://www.youtube.com/watch?v=-Mu6DsD0uj0)
-| 12 | July 13, 2015 | <img src="https://i.ytimg.com/vi/8TgnLP26op8/default.jpg" width="120" height="90" /> | [Непрерывная интеграция или ��Кто всё сломал?“](https://www.youtube.com/watch?v=8TgnLP26op8)
+| 12 | July 13, 2015 | <img src="https://i.ytimg.com/vi/8TgnLP26op8/default.jpg" width="120" height="90" /> | [Непрерывная интеграция или „Кто всё сломал?“](https://www.youtube.com/watch?v=8TgnLP26op8)
 | 13 | July 3, 2015 | <img src="https://i.ytimg.com/vi/ufWxD1Bit7k/default.jpg" width="120" height="90" /> | ["Непрерывная интеграция или "Кто всё сломал?", Виктор Русакович, MoscowJS 23](https://www.youtube.com/watch?v=ufWxD1Bit7k)
 | 14 | June 4, 2015 | <img src="https://i.ytimg.com/vi/Rrv0-I3HIAw/default.jpg" width="120" height="90" /> | [Continuous Integration — A to Z или Непрерывная интеграция — кто всё сломал?, Виктор Русакович](https://www.youtube.com/watch?v=Rrv0-I3HIAw)
 | 15 | February 22, 2015 | <img src="https://i.ytimg.com/vi/SKuZ00B0rmY/default.jpg" width="120" height="90" /> | [Solit 2012. Виктор Русакович. "Беспроблемное внедрение js/css/html на сторонних ресурсах"](https://www.youtube.com/watch?v=SKuZ00B0rmY)
