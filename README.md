@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3688 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3689 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->You can be fined up to <!--FUN FACT:START-->,000 for whistling on Sunday in Salt Lake City, Utah.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
