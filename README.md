@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3970 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 3971 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->On the ground, a group of geese is a gaggle, in the sky it is a skein.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
