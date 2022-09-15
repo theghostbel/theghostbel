@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4052 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4053 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Women blink nearly twice as much as men.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->If you have three quarters, four dimes, and four pennies, you have <!--FUN FACT:START-->.19, the largest amount of money in coins without being able to make change for a dollar.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
