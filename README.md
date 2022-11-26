@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4124 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4125 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
@@ -31,7 +31,7 @@ with the  latest updates.
 | 11 | November 3, 2017 | <img src="https://i.ytimg.com/vi/q2Ts8a_SPCU/default.jpg" width="120" height="90" /> | [Виктор Русакович - Выборы, выборы, все фреймворки… приторны](https://www.youtube.com/watch?v=q2Ts8a_SPCU)
 | 12 | May 23, 2016 | <img src="https://i.ytimg.com/vi/_OcnHy64xM0/default.jpg" width="120" height="90" /> | [JavaScript: прошлое, настоящее и будущее, Владимир Дашукевич](https://www.youtube.com/watch?v=_OcnHy64xM0)
 | 13 | February 10, 2016 | <img src="https://i.ytimg.com/vi/-Mu6DsD0uj0/default.jpg" width="120" height="90" /> | [Party Hard! 2016 - техническая секция, часть шестая](https://www.youtube.com/watch?v=-Mu6DsD0uj0)
-| 14 | July 13, 2015 | <img src="https://i.ytimg.com/vi/8TgnLP26op8/default.jpg" width="120" height="90" /> | [Непрерывная интеграция ��ли „Кто всё сломал?“](https://www.youtube.com/watch?v=8TgnLP26op8)
+| 14 | July 13, 2015 | <img src="https://i.ytimg.com/vi/8TgnLP26op8/default.jpg" width="120" height="90" /> | [Непрерывная интеграция или „Кто всё сломал?“](https://www.youtube.com/watch?v=8TgnLP26op8)
 | 15 | July 3, 2015 | <img src="https://i.ytimg.com/vi/ufWxD1Bit7k/default.jpg" width="120" height="90" /> | [MoscowJS 23 — Непрерывная интеграция или "Кто всё сломал? — Виктор Русакович](https://www.youtube.com/watch?v=ufWxD1Bit7k)
 | 16 | June 4, 2015 | <img src="https://i.ytimg.com/vi/Rrv0-I3HIAw/default.jpg" width="120" height="90" /> | [Continuous Integration — A to Z или Непрерывная интеграция — кто всё сломал?, Виктор Русакович](https://www.youtube.com/watch?v=Rrv0-I3HIAw)
 | 17 | February 22, 2015 | <img src="https://i.ytimg.com/vi/SKuZ00B0rmY/default.jpg" width="120" height="90" /> | [Solit 2012. Виктор Русакович. "Беспроблемное внедрение js/css/html на сторонних ресурсах"](https://www.youtube.com/watch?v=SKuZ00B0rmY)
