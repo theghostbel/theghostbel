@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4185 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4186 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
