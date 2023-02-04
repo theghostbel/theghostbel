@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4194 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4195 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->100% of lottery winners do gain weight<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Average number of people airborne over the US any given hour: 61,000.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
@@ -26,10 +26,10 @@ with the  latest updates.
 | 6 | December 9, 2019 | <img src="https://i.ytimg.com/vi/JRlCIPkwheA/default.jpg" width="120" height="90" /> | [Пусть всем кажется, что всё грузится быстро, Виктор Русакович](https://www.youtube.com/watch?v=JRlCIPkwheA)
 | 7 | March 29, 2019 | <img src="https://i.ytimg.com/vi/c29NxCnOL2A/default.jpg" width="120" height="90" /> | [Elm — new language, new you, Victor Rusakovich [CSS-Minsk-JS 2018]](https://www.youtube.com/watch?v=c29NxCnOL2A)
 | 8 | February 22, 2019 | <img src="https://i.ytimg.com/vi/D-4D1f5gyXw/default.jpg" width="120" height="90" /> | [Зачем мы переписывали приложение на Elm и кто за это ответит / Виктор Русакович](https://www.youtube.com/watch?v=D-4D1f5gyXw)
-| 9 | December 14, 2018 | <img src="https://i.ytimg.com/vi/lZcb4YoBGMY/default.jpg" width="120" height="90" /> | [Зачем мы переписываем приложение на Elm, и кто его знает? / Виктор Русакович (GP Solutions)](https://www.youtube.com/watch?v=lZcb4YoBGMY)
+| 9 | December 14, 2018 | <img src="https://i.ytimg.com/vi/lZcb4YoBGMY/default.jpg" width="120" height="90" /> | [Зачем мы переписываем приложение н�� Elm, и кто его знает? / Виктор Русакович (GP Solutions)](https://www.youtube.com/watch?v=lZcb4YoBGMY)
 | 10 | June 23, 2018 | <img src="https://i.ytimg.com/vi/vrqI84atsI8/default.jpg" width="120" height="90" /> | [Фронтенд без боли, ошибок и Javascript. Все про Elm. Функциональное программирование](https://www.youtube.com/watch?v=vrqI84atsI8)
 | 11 | January 16, 2018 | <img src="https://i.ytimg.com/vi/hPbJRXUq-hw/default.jpg" width="120" height="90" /> | [Тестируй это / Виктор Русакович (GP Solutions)](https://www.youtube.com/watch?v=hPbJRXUq-hw)
-| 12 | November 3, 2017 | <img src="https://i.ytimg.com/vi/q2Ts8a_SPCU/default.jpg" width="120" height="90" /> | [Виктор Русакович - Выборы, вы��оры, все фреймворки… приторны](https://www.youtube.com/watch?v=q2Ts8a_SPCU)
+| 12 | November 3, 2017 | <img src="https://i.ytimg.com/vi/q2Ts8a_SPCU/default.jpg" width="120" height="90" /> | [Виктор Русакович - Выборы, выборы, все фреймворки… приторны](https://www.youtube.com/watch?v=q2Ts8a_SPCU)
 | 13 | May 23, 2016 | <img src="https://i.ytimg.com/vi/_OcnHy64xM0/default.jpg" width="120" height="90" /> | [JavaScript: прошлое, настоящее и будущее, Владимир Дашукевич](https://www.youtube.com/watch?v=_OcnHy64xM0)
 | 14 | February 10, 2016 | <img src="https://i.ytimg.com/vi/-Mu6DsD0uj0/default.jpg" width="120" height="90" /> | [Party Hard! 2016 - техническая секция, часть шестая](https://www.youtube.com/watch?v=-Mu6DsD0uj0)
 | 15 | July 13, 2015 | <img src="https://i.ytimg.com/vi/8TgnLP26op8/default.jpg" width="120" height="90" /> | [Непрерывная интеграция или „Кто всё сломал?“](https://www.youtube.com/watch?v=8TgnLP26op8)
