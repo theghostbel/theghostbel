@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4199 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4200 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
