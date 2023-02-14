@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4204 days!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, 4205 days!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The strongest muscle (Relative to size) in the body is the tongue.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
@@ -22,7 +22,7 @@ with the  latest updates.
 | 2 | October 10, 2022 | <img src="https://i.ytimg.com/vi/nPrGnfklFXA/default.jpg" width="120" height="90" /> | [Как проработать 11 лет в одной компании и не потерять интерес – Виктор Русакович – Frontend Weekend](https://www.youtube.com/watch?v=nPrGnfklFXA)
 | 3 | August 19, 2021 | <img src="https://i.ytimg.com/vi/5xtWSCkCZeU/default.jpg" width="120" height="90" /> | [Круглый стол "Хорошие практики современного фронтенда"](https://www.youtube.com/watch?v=5xtWSCkCZeU)
 | 4 | August 19, 2021 | <img src="https://i.ytimg.com/vi/CDb36N3ixZk/default.jpg" width="120" height="90" /> | [Сбор и анализ производительности у клиентов / Виктор Русакович](https://www.youtube.com/watch?v=CDb36N3ixZk)
-| 5 | April 14, 2020 | <img src="https://i.ytimg.com/vi/ODWakh7Tl9s/default.jpg" width="120" height="90" /> | [Пусть всем кажется, что всё грузится быстро / Виктор Русакови�� (GP Solutions)](https://www.youtube.com/watch?v=ODWakh7Tl9s)
+| 5 | April 14, 2020 | <img src="https://i.ytimg.com/vi/ODWakh7Tl9s/default.jpg" width="120" height="90" /> | [Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions)](https://www.youtube.com/watch?v=ODWakh7Tl9s)
 | 6 | December 9, 2019 | <img src="https://i.ytimg.com/vi/JRlCIPkwheA/default.jpg" width="120" height="90" /> | [Пусть всем кажется, что всё грузится быстро, Виктор Русакович](https://www.youtube.com/watch?v=JRlCIPkwheA)
 | 7 | March 29, 2019 | <img src="https://i.ytimg.com/vi/c29NxCnOL2A/default.jpg" width="120" height="90" /> | [Elm — new language, new you, Victor Rusakovich [CSS-Minsk-JS 2018]](https://www.youtube.com/watch?v=c29NxCnOL2A)
 | 8 | February 22, 2019 | <img src="https://i.ytimg.com/vi/D-4D1f5gyXw/default.jpg" width="120" height="90" /> | [Зачем мы переписывали приложение на Elm и кто за это ответит / Виктор Русакович](https://www.youtube.com/watch?v=D-4D1f5gyXw)
