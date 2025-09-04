@@ -64,9 +64,9 @@ function workRange() {
 
 async function funFact(oldValue = '') {
   try {
-    const json = await getJson('https://uselessfacts.jsph.pl/random.json?language=en')
+    const json = await getJson('https://uselessfacts.jsph.pl/api/v2/facts/random?language=en')
     
-    // Validate response structure
+    // Validate response structure for APIv2
     if (!json || !json.text) {
       console.error('Invalid fun fact API response structure:', json)
       return oldValue || 'API temporarily unavailable'
