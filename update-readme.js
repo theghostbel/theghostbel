@@ -57,9 +57,112 @@ function workRange() {
   const ONE_DAY = 24 * 60 * 60 * 1000
   const startedToWork = new Date(2011, 7, 11)
   const today = new Date()
-  const daysCount = Math.floor((today - startedToWork) / ONE_DAY)
+  const totalDays = Math.floor((today - startedToWork) / ONE_DAY)
 
-  return Promise.resolve(`, ${daysCount} days!`)
+  // Fun time period calculations
+  const timePeriods = [
+    {
+      name: 'days',
+      value: totalDays,
+      emoji: '📅'
+    },
+    {
+      name: 'lunar months',
+      value: Math.floor(totalDays / 29.53), // Average lunar cycle
+      emoji: '🌙'
+    },
+    {
+      name: 'Mars sols',
+      value: Math.floor(totalDays / 1.027), // Mars day is ~24h 37m
+      emoji: '🔴'
+    },
+    {
+      name: 'Venus days',
+      value: Math.floor(totalDays / 243), // Venus day is 243 Earth days
+      emoji: '🌕'
+    },
+    {
+      name: 'housefly lifespans',
+      value: Math.floor(totalDays / 28), // Housefly lives ~28 days
+      emoji: '🪰'
+    },
+    {
+      name: 'mayfly lifespans',
+      value: Math.floor(totalDays / 1), // Mayflies live ~1 day
+      emoji: '🦋'
+    },
+    {
+      name: 'dog years equivalent',
+      value: Math.floor(totalDays / 52.14), // 1 dog year ≈ 52.14 human days
+      emoji: '🐕'
+    },
+    {
+      name: 'pizza delivery times',
+      value: Math.floor((totalDays * 24 * 60) / 30), // 30 minutes per pizza
+      emoji: '🍕'
+    },
+    {
+      name: 'coffee breaks',
+      value: Math.floor((totalDays * 24 * 60) / 15), // 15-minute coffee breaks
+      emoji: '☕'
+    },
+    {
+      name: 'blinks of an eye',
+      value: Math.floor((totalDays * 24 * 60 * 60) / 0.1), // 0.1 seconds per blink
+      emoji: '👁️'
+    },
+    // Movie references
+    {
+      name: 'Groundhog Day loops',
+      value: Math.floor(totalDays / 1), // Bill Murray reliving the same day
+      emoji: '🐿️'
+    },
+    {
+      name: 'Matrix red pill moments',
+      value: Math.floor((totalDays * 24 * 60) / 136), // The Matrix runtime
+      emoji: '💊'
+    },
+    // Classic references
+    {
+      name: 'Roman consulships',
+      value: Math.floor(totalDays / 365), // Roman consuls served 1 year terms
+      emoji: '🏛️'
+    },
+    {
+      name: 'Olympic cycles',
+      value: Math.floor(totalDays / (4 * 365.25)), // Olympics every 4 years
+      emoji: '🏅'
+    },
+    // Alien/sci-fi themed
+    {
+      name: 'Zeta Reticuli orbits',
+      value: Math.floor(totalDays / (132 * 365.25)), // Hypothetical alien star system
+      emoji: '👽'
+    },
+    {
+      name: 'UFO sighting reports',
+      value: Math.floor(totalDays / 7), // Average UFO reports per week
+      emoji: '🛸'
+    }
+  ]
+
+  // Randomly pick 3 periods (always include days as first)
+  const randomPeriods = [timePeriods[0]] // Always include days
+  const otherPeriods = timePeriods.slice(1).filter(period => period.value > 0)
+  
+  // Shuffle and pick 2 more random periods
+  for (let i = otherPeriods.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [otherPeriods[i], otherPeriods[j]] = [otherPeriods[j], otherPeriods[i]]
+  }
+  randomPeriods.push(...otherPeriods.slice(0, 2))
+
+  // Create a fun, expandable string
+  const funnyPeriods = randomPeriods
+    .map(period => `${period.value.toLocaleString()} ${period.name} ${period.emoji}`)
+    .join(', ')
+
+  return Promise.resolve(`, which is ${funnyPeriods}!`)
 }
 
 async function funFact(oldValue = '') {
