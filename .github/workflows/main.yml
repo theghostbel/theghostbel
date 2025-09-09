@@ -21,13 +21,19 @@ jobs:
     - name: Create local changes
       env:
         YOUTUBE_API_KEY: ${{secrets.YOUTUBE_API_KEY}}
+        OPENROUTER_API_KEY: ${{secrets.OPENROUTER_API_KEY}}
       run: |
         node update-readme.js
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Add changes" -a
+        if [ -f commit-message.txt ]; then
+          COMMIT_MSG=$(cat commit-message.txt)
+          git commit -m "$COMMIT_MSG" -a
+        else
+          git commit -m "Add changes" -a
+        fi
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:

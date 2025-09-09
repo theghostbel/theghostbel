@@ -1,5 +1,8 @@
 const fs = require('fs')
 const https = require('https')
+const timePeriods = require('./timePeriods')
+const { generateTimePeriods } = require('./aiTimePeriods')
+const { getCommitMessage } = require('./commitMessages')
 let env
 
 try {
@@ -47,108 +50,60 @@ const tokens = [
 
     fs.writeFileSync(readmeFilePath, readmeUpdated)
     console.log(`${readmeFilePath} updated!`)
+    
+    // Generate and save commit message
+    try {
+      const ONE_DAY = 24 * 60 * 60 * 1000
+      const startedToWork = new Date(2011, 7, 11)
+      const today = new Date()
+      const totalDays = Math.floor((today - startedToWork) / ONE_DAY)
+      
+      const commitMsg = getCommitMessage(totalDays)
+      fs.writeFileSync('./commit-message.txt', commitMsg)
+      console.log(`Commit message generated: "${commitMsg}"`)
+    } catch (error) {
+      console.warn('Failed to generate commit message:', error.message)
+    }
   } catch (error) {
     console.error('Failed to update README:', error.message)
     process.exit(1)
   }
 })()
 
-function workRange() {
+async function workRange() {
   const ONE_DAY = 24 * 60 * 60 * 1000
   const startedToWork = new Date(2011, 7, 11)
   const today = new Date()
   const totalDays = Math.floor((today - startedToWork) / ONE_DAY)
 
-  // Fun time period calculations
-  const timePeriods = [
-    {
-      name: 'days',
-      value: totalDays,
-      emoji: '📅'
-    },
-    {
-      name: 'lunar months',
-      value: Math.floor(totalDays / 29.53), // Average lunar cycle
-      emoji: '🌙'
-    },
-    {
-      name: 'Mars sols',
-      value: Math.floor(totalDays / 1.027), // Mars day is ~24h 37m
-      emoji: '🔴'
-    },
-    {
-      name: 'Venus days',
-      value: Math.floor(totalDays / 243), // Venus day is 243 Earth days
-      emoji: '🌕'
-    },
-    {
-      name: 'housefly lifespans',
-      value: Math.floor(totalDays / 28), // Housefly lives ~28 days
-      emoji: '🪰'
-    },
-    {
-      name: 'mayfly lifespans',
-      value: Math.floor(totalDays / 1), // Mayflies live ~1 day
-      emoji: '🦋'
-    },
-    {
-      name: 'dog years equivalent',
-      value: Math.floor(totalDays / 52.14), // 1 dog year ≈ 52.14 human days
-      emoji: '🐕'
-    },
-    {
-      name: 'pizza delivery times',
-      value: Math.floor((totalDays * 24 * 60) / 30), // 30 minutes per pizza
-      emoji: '🍕'
-    },
-    {
-      name: 'coffee breaks',
-      value: Math.floor((totalDays * 24 * 60) / 15), // 15-minute coffee breaks
-      emoji: '☕'
-    },
-    {
-      name: 'blinks of an eye',
-      value: Math.floor((totalDays * 24 * 60 * 60) / 0.1), // 0.1 seconds per blink
-      emoji: '👁️'
-    },
-    // Movie references
-    {
-      name: 'Groundhog Day loops',
-      value: Math.floor(totalDays / 1), // Bill Murray reliving the same day
-      emoji: '🐿️'
-    },
-    {
-      name: 'Matrix red pill moments',
-      value: Math.floor((totalDays * 24 * 60) / 136), // The Matrix runtime
-      emoji: '💊'
-    },
-    // Classic references
-    {
-      name: 'Roman consulships',
-      value: Math.floor(totalDays / 365), // Roman consuls served 1 year terms
-      emoji: '🏛️'
-    },
-    {
-      name: 'Olympic cycles',
-      value: Math.floor(totalDays / (4 * 365.25)), // Olympics every 4 years
-      emoji: '🏅'
-    },
-    // Alien/sci-fi themed
-    {
-      name: 'Zeta Reticuli orbits',
-      value: Math.floor(totalDays / (132 * 365.25)), // Hypothetical alien star system
-      emoji: '👽'
-    },
-    {
-      name: 'UFO sighting reports',
-      value: Math.floor(totalDays / 7), // Average UFO reports per week
-      emoji: '🛸'
+  // Try to get AI-generated time periods, fall back to predefined ones
+  let allTimePeriods
+  try {
+    const aiPeriods = await generateTimePeriods(totalDays, env)
+    if (aiPeriods && aiPeriods.length > 0) {
+      // Combine AI periods with predefined ones
+      const predefinedPeriods = timePeriods.map(period => ({
+        name: period.name,
+        value: period.value(totalDays),
+        emoji: period.emoji
+      }))
+      allTimePeriods = [...predefinedPeriods, ...aiPeriods]
+    } else {
+      throw new Error('No AI periods generated')
     }
-  ]
+  } catch (error) {
+    console.warn('Failed to generate AI time periods, using fallback:', error.message)
+    // Fallback to predefined periods
+    allTimePeriods = timePeriods.map(period => ({
+      name: period.name,
+      value: period.value(totalDays),
+      emoji: period.emoji
+    }))
+  }
 
   // Randomly pick 3 periods (always include days as first)
-  const randomPeriods = [timePeriods[0]] // Always include days
-  const otherPeriods = timePeriods.slice(1).filter(period => period.value > 0)
+  const randomPeriods = [allTimePeriods[0]] // Always include days
+  const otherPeriods = allTimePeriods.slice(1).filter(period => period.value > 0)
   
   // Shuffle and pick 2 more random periods
   for (let i = otherPeriods.length - 1; i > 0; i--) {
@@ -162,7 +117,7 @@ function workRange() {
     .map(period => `${period.value.toLocaleString()} ${period.name} ${period.emoji}`)
     .join(', ')
 
-  return Promise.resolve(`, which is ${funnyPeriods}!`)
+  return `, which is ${funnyPeriods}!`
 }
 
 async function funFact(oldValue = '') {
@@ -294,3 +249,4 @@ function getJson(url) {
     })
   })
 }
+
