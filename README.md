@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,143 days 📅, 5,143 mayfly lifespans 🦋, 5,143 Groundhog Day loops 🐿️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,144 days 📅, 21 Venus days 🌕, 14 Roman consulships 🏛️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The state of Florida is bigger than England!<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
