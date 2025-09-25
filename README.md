@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,158 days 📅, 14 Roman consulships 🏛️, 98 dog years equivalent 🐕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,159 days 📅, 245 sock disappearance cycles 🧦, 10,318 waiting for a good pun 🥁!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->It's illegal to spit on the sidewalk in Norfolk, Virginia.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Mount Olympus Mons on Mars is three times the size of Mount Everest.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
