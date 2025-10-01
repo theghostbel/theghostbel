@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,164 days 📅, 41,312 time between forgetting and remembering the password 🤔, 99 dog years equivalent 🐕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,165 days 📅, 21 Venus days 🌕, 2,066 procrastinator's deadline extension ⏳!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Rubber bands last longer when refrigerated.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->40% of all people who come to a party in your home snoop in your medicine cabinet<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
