@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,168 days 📅, 248,064 pizza delivery times 🍕, 5,032 Mars sols 🔴!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,169 days 📅, 2,247 time to find matching socks in a shared laundry basket 🧦, 21 Venus days 🌕!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Dr. Seuss pronounced his name “soyce”.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Sugar was first added to chewing gum in 1869 by a dentist, William Semple.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
