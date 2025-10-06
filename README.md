@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,169 days 📅, 2,247 time to find matching socks in a shared laundry basket 🧦, 21 Venus days 🌕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,170 days 📅, 5,034 Mars sols 🔴, 184 housefly lifespans 🪰!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Sugar was first added to chewing gum in 1869 by a dentist, William Semple.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->There are 269 steps to the top of the Leaning Tower of Pisa<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
