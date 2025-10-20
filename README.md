@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,183 days 📅, 5,046 Mars sols 🔴, 175 lunar months 🌙!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,184 days 📅, 54,889 Matrix red pill moments 💊, 5,047 Mars sols 🔴!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Half of all bank robberies take place on a Friday.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
