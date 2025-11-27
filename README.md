@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,221 days 📅, 5,221 mayfly lifespans 🦋, 55,281 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,222 days 📅, 21 Venus days 🌕, 4,511,808,000 blinks of an eye 👁️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The only real person to be a PEZ head was Betsy Ross.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
