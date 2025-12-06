@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,230 days 📅, 3 Olympic cycles 🏅, 55,376 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,231 days 📅, 502,176 coffee breaks ☕, 177 lunar months 🌙!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->3.6 cans of Spam are consumed each second.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->China has more English speakers than the United States.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
