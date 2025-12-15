@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,239 days 📅, 5,239 Groundhog Day loops 🐿️, 21 Venus days 🌕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,240 days 📅, 5,240 Groundhog Day loops 🐿️, 100 dog years equivalent 🐕!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Marilyn Monroe had six toes.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
