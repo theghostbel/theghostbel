@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,243 days 📅, 251,664 pizza delivery times 🍕, 5,243 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,244 days 📅, 3 Olympic cycles 🏅, 177 lunar months 🌙!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->While in Alcatraz, Al Capone was inmate #85.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
