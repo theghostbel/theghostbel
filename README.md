@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,283 days 📅, 3 Olympic cycles 🏅, 4,564,512,000 blinks of an eye 👁️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,284 days 📅, 178 lunar months 🌙, 55,948 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->In 1386, a pig in France was executed by public hanging for the murder of a child<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
