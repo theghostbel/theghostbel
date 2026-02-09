@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,295 days 📅, 5,295 mayfly lifespans 🦋, 21 Venus days 🌕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,296 days 📅, 5,296 Groundhog Day loops 🐿️, 5,296 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Shakespeare invented the words “assassination” and “bump.”<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->A duck's quack doesn't echo, and no one knows why.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
