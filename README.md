@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,303 days 📅, 179 lunar months 🌙, 101 dog years equivalent 🐕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,304 days 📅, 4,582,656,000 blinks of an eye 👁️, 5,304 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The world’s oldest piece of chewing gum is 9000 years old!<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->In Aspen Colorado, you can have a maximum income of <!--FUN FACT:START-->04,000 and still receive government subsidized housing.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
