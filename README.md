@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,313 days 📅, 179 lunar months 🌙, 4,590,432,000 blinks of an eye 👁️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,314 days 📅, 179 lunar months 🌙, 101 dog years equivalent 🐕!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The Guinness Book of Records holds the record for being the book most often stolen from Libraries.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Baby Ruth candy bar was named after Grover Cleveland’s daughter, Ruth, not the baseball player.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
