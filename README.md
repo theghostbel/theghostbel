@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,319 days 📅, 5,319 mayfly lifespans 🦋, 5,319 Groundhog Day loops 🐿️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,320 days 📅, 5,180 Mars sols 🔴, 5,320 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->A dime has 118 ridges around the edge. A quarter has 119.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->You can lead a cow upstairs but not downstairs.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
