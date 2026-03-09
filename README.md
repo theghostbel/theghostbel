@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,323 days 📅, 511,008 coffee breaks ☕, 5,183 Mars sols 🔴!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,324 days 📅, 5,324 mayfly lifespans 🦋, 190 housefly lifespans 🪰!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Astronaut Neil Armstrong first stepped on the moon with his left foot.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->You can't kill yourself by holding your breath<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
