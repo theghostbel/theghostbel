@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,349 days 📅, 181 lunar months 🌙, 3 Olympic cycles 🏅!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,350 days 📅, 4,622,400,000 blinks of an eye 👁️, 56,647 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->If a rooster can`t fully extend its neck, it can`t crow.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Sweden has the least number of murders annually.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
