@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,354 days 📅, 513,984 coffee breaks ☕, 5,213 Mars sols 🔴!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,355 days 📅, 3 Olympic cycles 🏅, 5,214 Mars sols 🔴!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->You can lead a cow upstairs but not downstairs.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
