@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,358 days 📅, 181 lunar months 🌙, 765 UFO sighting reports 🛸!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,359 days 📅, 4,630,176,000 blinks of an eye 👁️, 14 Roman consulships 🏛️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The highest point in Pennsylvania is lower than the lowest point in Colorado.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Maine is the only state whose name is just one syllable.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
