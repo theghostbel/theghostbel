@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,362 days 📅, 514,752 coffee breaks ☕, 181 lunar months 🌙!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,363 days 📅, 5,363 Groundhog Day loops 🐿️, 5,363 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Your heart beats over 100,000 times a day!<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
@@ -36,5 +36,5 @@ with the  latest updates.
 | 16 | June 4, 2015 | <img src="https://i.ytimg.com/vi/Rrv0-I3HIAw/default.jpg" width="120" height="90" /> | [Continuous Integration — A to Z или Непрерывная интеграция — кто всё сломал?, Виктор Русакович](https://www.youtube.com/watch?v=Rrv0-I3HIAw)
 | 17 | February 22, 2015 | <img src="https://i.ytimg.com/vi/SKuZ00B0rmY/default.jpg" width="120" height="90" /> | [Solit 2012. Виктор Русакович. "Беспроблемное внедрение js/css/html на сторонних ресурсах"](https://www.youtube.com/watch?v=SKuZ00B0rmY)
 | 18 | May 5, 2014 | <img src="https://i.ytimg.com/vi/KXJQwzYIM0Y/default.jpg" width="120" height="90" /> | [Solit 2014. Виктор Русакович. "Реактивный JavaScript. Победа над асинхронностью и вложенностью"](https://www.youtube.com/watch?v=KXJQwzYIM0Y)
-| 19 | May 5, 2014 | <img src="https://i.ytimg.com/vi/WIuiFCmADbw/default.jpg" width="120" height="90" /> | [Solit 2014. Виктор Русакович. "Непрерыв��ая интеграция сложного проекта. Кто всё сломал?"](https://www.youtube.com/watch?v=WIuiFCmADbw)
+| 19 | May 5, 2014 | <img src="https://i.ytimg.com/vi/WIuiFCmADbw/default.jpg" width="120" height="90" /> | [Solit 2014. Виктор Русакович. "Непрерывная интеграция сложного проекта. Кто всё сломал?"](https://www.youtube.com/watch?v=WIuiFCmADbw)
 <!--YOUTUBE:END-->
