@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,366 days 📅, 56,816 Matrix red pill moments 💊, 5,224 Mars sols 🔴!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,367 days 📅, 5,367 mayfly lifespans 🦋, 191 housefly lifespans 🪰!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The word "samba" means "to rub navels together."<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->0.3% of all road accidents in Canada involve a Moose.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
