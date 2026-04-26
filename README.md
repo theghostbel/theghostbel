@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,371 days 📅, 3 Olympic cycles 🏅, 14 Roman consulships 🏛️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,372 days 📅, 257,856 pizza delivery times 🍕, 767 UFO sighting reports 🛸!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The word "set" has more definitions than any other word in the English language.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
@@ -34,7 +34,7 @@ with the  latest updates.
 | 14 | July 13, 2015 | <img src="https://i.ytimg.com/vi/8TgnLP26op8/default.jpg" width="120" height="90" /> | [Непрерывная интеграция или „Кто всё сломал?“](https://www.youtube.com/watch?v=8TgnLP26op8)
 | 15 | July 3, 2015 | <img src="https://i.ytimg.com/vi/ufWxD1Bit7k/default.jpg" width="120" height="90" /> | [MoscowJS 23 — Непрерывная интеграция или "Кто всё сломал? — Виктор Русакович](https://www.youtube.com/watch?v=ufWxD1Bit7k)
 | 16 | June 4, 2015 | <img src="https://i.ytimg.com/vi/Rrv0-I3HIAw/default.jpg" width="120" height="90" /> | [Continuous Integration — A to Z или Непрерывная интеграция — кто всё сломал?, Виктор Русакович](https://www.youtube.com/watch?v=Rrv0-I3HIAw)
-| 17 | February 22, 2015 | <img src="https://i.ytimg.com/vi/SKuZ00B0rmY/default.jpg" width="120" height="90" /> | [Solit 2012. Виктор Русакович. "Беспроблемное внедрение js/css/html на сторонних ресурсах"](https://www.youtube.com/watch?v=SKuZ00B0rmY)
+| 17 | February 22, 2015 | <img src="https://i.ytimg.com/vi/SKuZ00B0rmY/default.jpg" width="120" height="90" /> | [Solit 2012. Виктор Русакович. "Беспроблемное внедрение js/css/html на сторонних ресурса��"](https://www.youtube.com/watch?v=SKuZ00B0rmY)
 | 18 | May 5, 2014 | <img src="https://i.ytimg.com/vi/KXJQwzYIM0Y/default.jpg" width="120" height="90" /> | [Solit 2014. Виктор Русакович. "Реактивный JavaScript. Победа над асинхронностью и вложенностью"](https://www.youtube.com/watch?v=KXJQwzYIM0Y)
-| 19 | May 5, 2014 | <img src="https://i.ytimg.com/vi/WIuiFCmADbw/default.jpg" width="120" height="90" /> | [Solit 2014. Виктор Русакович. "Непрерывна�� интеграция сложного проекта. Кто всё сломал?"](https://www.youtube.com/watch?v=WIuiFCmADbw)
+| 19 | May 5, 2014 | <img src="https://i.ytimg.com/vi/WIuiFCmADbw/default.jpg" width="120" height="90" /> | [Solit 2014. Виктор Русакович. "Непрерывная интеграция сложного проекта. Кто всё сломал?"](https://www.youtube.com/watch?v=WIuiFCmADbw)
 <!--YOUTUBE:END-->
