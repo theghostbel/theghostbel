@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,380 days 📅, 5,380 mayfly lifespans 🦋, 5,380 Groundhog Day loops 🐿️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,381 days 📅, 4,649,184,000 blinks of an eye 👁️, 192 housefly lifespans 🪰!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->If you have three quarters, four dimes, and four pennies, you have <!--FUN FACT:START-->.19, the largest amount of money in coins without being able to make change for a dollar.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
