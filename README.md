@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,393 days 📅, 258,864 pizza delivery times 🍕, 4,659,552,000 blinks of an eye 👁️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,394 days 📅, 5,252 Mars sols 🔴, 182 lunar months 🌙!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Bats always turn left when exiting a cave<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Spain leads the world in cork production<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
