@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,406 days 📅, 518,976 coffee breaks ☕, 193 housefly lifespans 🪰!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,407 days 📅, 14 Roman consulships 🏛️, 103 dog years equivalent 🐕!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Koala is Aboriginal for "no drink".<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
