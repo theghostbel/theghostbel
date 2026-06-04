@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,410 days 📅, 259,680 pizza delivery times 🍕, 103 dog years equivalent 🐕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,411 days 📅, 183 lunar months 🌙, 5,411 Groundhog Day loops 🐿️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Oak trees do not produce acorns until they are fifty years of age or older.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Mercury is the only planet whose orbit is coplanar with its equator.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
