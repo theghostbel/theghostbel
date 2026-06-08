@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,414 days 📅, 773 UFO sighting reports 🛸, 5,414 Groundhog Day loops 🐿️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,415 days 📅, 193 housefly lifespans 🪰, 14 Roman consulships 🏛️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->John Lennon’s first girlfriend was named Thelma Pickles.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
