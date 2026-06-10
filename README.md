@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,416 days 📅, 259,968 pizza delivery times 🍕, 773 UFO sighting reports 🛸!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,417 days 📅, 57,356 Matrix red pill moments 💊, 773 UFO sighting reports 🛸!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->“Ithyphallophobia" is a morbid fear of seeing, thinking about or having an erect penis.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Our eyes are always the same size from birth, but our nose and ears never stop growing.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
