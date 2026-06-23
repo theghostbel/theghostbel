@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,429 days 📅, 5,429 mayfly lifespans 🦋, 193 housefly lifespans 🪰!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,430 days 📅, 14 Roman consulships 🏛️, 260,640 pizza delivery times 🍕!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->One quarter of the bones in your body are in your feet.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->If a rooster can`t fully extend its neck, it can`t crow.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
