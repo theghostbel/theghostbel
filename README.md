@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,438 days 📅, 522,048 coffee breaks ☕, 5,438 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,439 days 📅, 5,439 Groundhog Day loops 🐿️, 777 UFO sighting reports 🛸!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->There`s a systematic lull in conversation every 7 minutes.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
