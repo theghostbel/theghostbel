@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,442 days 📅, 522,432 coffee breaks ☕, 5,298 Mars sols 🔴!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,443 days 📅, 5,443 Groundhog Day loops 🐿️, 4,702,752,000 blinks of an eye 👁️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->2,000 pounds of space dust and other space debris fall on the Earth every day.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
