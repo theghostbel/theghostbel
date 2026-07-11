@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,447 days 📅, 522,912 coffee breaks ☕, 5,447 Groundhog Day loops 🐿️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,448 days 📅, 5,448 Groundhog Day loops 🐿️, 104 dog years equivalent 🐕!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->111,111,111 x 111,111,111 = 12,345,678,987,654,321<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
