@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,470 days 📅, 5,326 Mars sols 🔴, 4,726,080,000 blinks of an eye 👁️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,471 days 📅, 5,471 mayfly lifespans 🦋, 57,928 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Jamaica has the most churches per square mile than any other country in the world.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
