@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,476 days 📅, 5,476 Groundhog Day loops 🐿️, 262,848 pizza delivery times 🍕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,477 days 📅, 195 housefly lifespans 🪰, 5,477 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Golf courses cover 4% of North America.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Humans use a total of 72 different muscles in speech.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
