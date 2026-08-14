@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,481 days 📅, 3 Olympic cycles 🏅, 58,034 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,482 days 📅, 105 dog years equivalent 🐕, 5,482 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The most common name in world is Mohammed.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
