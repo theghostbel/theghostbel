@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,492 days 📅, 22 Venus days 🌕, 105 dog years equivalent 🐕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,493 days 📅, 4,745,952,000 blinks of an eye 👁️, 186 lunar months 🌙!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
