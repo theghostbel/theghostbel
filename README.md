@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,515 days 📅, 22 Venus days 🌕, 58,394 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,516 days 📅, 264,768 pizza delivery times 🍕, 186 lunar months 🌙!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The plastic things on the end of shoelaces are called aglets.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Buckingham Palace has 602 rooms.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
