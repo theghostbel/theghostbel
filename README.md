@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,520 days 📅, 5,520 Groundhog Day loops 🐿️, 4,769,280,000 blinks of an eye 👁️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,521 days 📅, 22 Venus days 🌕, 186 lunar months 🌙!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The volume of the earth's moon is the same as the volume of the Pacific Ocean. <!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
