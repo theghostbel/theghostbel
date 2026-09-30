@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,528 days 📅, 4,776,192,000 blinks of an eye 👁️, 58,531 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,529 days 📅, 197 housefly lifespans 🪰, 5,529 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->You burn more calories sleeping than you do watching TV.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The state of Florida is bigger than England.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
