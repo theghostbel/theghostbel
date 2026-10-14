@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,542 days 📅, 791 UFO sighting reports 🛸, 5,542 Groundhog Day loops 🐿️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,543 days 📅, 15 Roman consulships 🏛️, 5,543 mayfly lifespans 🦋!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Honking of car horns for a couple that just got married is an old superstition to insure great sex.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->On average a hedgehog's heart beats 300 times a minute.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
