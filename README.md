@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,546 days 📅, 792 UFO sighting reports 🛸, 532,416 coffee breaks ☕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,547 days 📅, 266,256 pizza delivery times 🍕, 792 UFO sighting reports 🛸!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Rugby, North Dakota is the geographical center of North America.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->More Monopoly money is printed in a year, than real money throughout the world.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
