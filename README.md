@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,550 days 📅, 266,400 pizza delivery times 🍕, 15 Roman consulships 🏛️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,551 days 📅, 106 dog years equivalent 🐕, 15 Roman consulships 🏛️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->An Olympic gold medal must contain 92.5 percent silver<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
