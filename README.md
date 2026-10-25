@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,553 days 📅, 198 housefly lifespans 🪰, 15 Roman consulships 🏛️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,554 days 📅, 15 Roman consulships 🏛️, 58,807 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The average chocolate bar has 8 insects’ legs melted into it.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
