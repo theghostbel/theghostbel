@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,557 days 📅, 5,557 mayfly lifespans 🦋, 5,410 Mars sols 🔴!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,558 days 📅, 198 housefly lifespans 🪰, 106 dog years equivalent 🐕!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->In 1984, a Canadian farmer began renting advertising space on his cows.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->The average Japanese household watches more than 10 hours of television a day.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
