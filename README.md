@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,561 days 📅, 5,561 mayfly lifespans 🦋, 5,561 Groundhog Day loops 🐿️!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,562 days 📅, 4,805,568,000 blinks of an eye 👁️, 5,415 Mars sols 🔴!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->The average woman consumes 6 lbs of lipstick in her lifetime.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->On average a hedgehog's heart beats 300 times a minute.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
