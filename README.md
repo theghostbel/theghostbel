@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,567 days 📅, 15 Roman consulships 🏛️, 534,432 coffee breaks ☕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,568 days 📅, 198 housefly lifespans 🪰, 3 Olympic cycles 🏅!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Nepal is the only country that doesn’t have a rectangular flag.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
