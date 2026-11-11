@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,570 days 📅, 3 Olympic cycles 🏅, 534,720 coffee breaks ☕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,571 days 📅, 5,571 Groundhog Day loops 🐿️, 15 Roman consulships 🏛️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Dueling is legal in Paraguay as long as both parties are registered blood donors.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Netherlands is the only country with a national dog.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
