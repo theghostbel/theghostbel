@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,576 days 📅, 535,296 coffee breaks ☕, 59,040 Matrix red pill moments 💊!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,577 days 📅, 15 Roman consulships 🏛️, 199 housefly lifespans 🪰!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->On average a hedgehog's heart beats 300 times a minute.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
