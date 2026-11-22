@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,581 days 📅, 59,092 Matrix red pill moments 💊, 107 dog years equivalent 🐕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,582 days 📅, 267,936 pizza delivery times 🍕, 15 Roman consulships 🏛️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->President John F Kennedy could read 4 newspapers in 20 minutes.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Months that begin on a Sunday will always have a `Friday the 13th`.<!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
