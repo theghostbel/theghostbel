@@ -1,11 +1,11 @@
 ## Hi there 👋!
 ### I am Victor Rusakovich, client-side developer from Minsk, Belarus
 
-* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,587 days 📅, 536,352 coffee breaks ☕, 107 dog years equivalent 🐕!<!--WORK RANGE:END-->)
+* 🔭 I’m currently working at [GP Solutions](https://gpsolutions.com/) (since August 2011<!--WORK RANGE:START-->, which is 5,588 days 📅, 5,441 Mars sols 🔴, 4,828,032,000 blinks of an eye 👁️!<!--WORK RANGE:END-->)
 * 🌱 I’m currently learning JavaScript
 * 📫 nemiga@gmail.com (please, no spam)
 * [LinkedIn](https://www.linkedin.com/in/theghost/)
-* ⚡ Fun fact: <!--FUN FACT:START-->A rat can last longer without water than a camel.<!--FUN FACT:END-->
+* ⚡ Fun fact: <!--FUN FACT:START-->Each year there is one ton of cement poured for each man woman and child in the world. <!--FUN FACT:END-->
 
 ### FrontEnd conferences and me
 
